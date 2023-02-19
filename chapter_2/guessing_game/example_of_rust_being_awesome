@@ -1,3 +1,7 @@
+this is the result of running:
+rustc --explain E0282 > ./example_of_rust_being_awesome
+
+
 The compiler could not infer a type and asked for a type annotation.
 
 Erroneous code example:
